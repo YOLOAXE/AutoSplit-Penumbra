@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"X"</Description>
+      <LastState Value="1.523616195" RealAddress="1214ED38"/>
+      <Color>110CE7</Color>
+      <VariableType>Float</VariableType>
+      <Address>"penumbra.exe"+002DCAF0</Address>
+      <Offsets>
+        <Offset>48</Offset>
+        <Offset>274</Offset>
+        <Offset>38</Offset>
+        <Offset>158</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>37</Key>
+          </Keys>
+          <Value>0.8</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>39</Key>
+          </Keys>
+          <Value>0.8</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>148</ID>
+      <Description>"Z"</Description>
+      <LastState Value="-0.2782284617" RealAddress="1214ED40"/>
+      <Color>E7110C</Color>
+      <VariableType>Float</VariableType>
+      <Address>"penumbra.exe"+002DCAF0</Address>
+      <Offsets>
+        <Offset>50</Offset>
+        <Offset>274</Offset>
+        <Offset>38</Offset>
+        <Offset>158</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>38</Key>
+          </Keys>
+          <Value>0.8</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>40</Key>
+          </Keys>
+          <Value>0.8</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>149</ID>
+      <Description>"Y"</Description>
+      <LastState Value="0.3836884797" RealAddress="1214ED3C"/>
+      <Color>0AE94D</Color>
+      <VariableType>Float</VariableType>
+      <Address>"penumbra.exe"+002DCAF0</Address>
+      <Offsets>
+        <Offset>4C</Offset>
+        <Offset>274</Offset>
+        <Offset>38</Offset>
+        <Offset>158</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"GameTime"</Description>
+      <LastState Value="40.16622543" RealAddress="0FDE8E1C"/>
+      <VariableType>Float</VariableType>
+      <Address>"penumbra.exe" + 0x2DCAF0</Address>
+      <Offsets>
+        <Offset>1C</Offset>
+        <Offset>4C</Offset>
+        <Offset>188</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>150</ID>
+      <Description>"Level_name"</Description>
+      <LastState RealAddress="11F4D708"/>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>String</VariableType>
+      <Length>20</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>"penumbra.exe" + 0x2DCAF0</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>40</Offset>
+        <Offset>154</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
